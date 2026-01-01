@@ -1,4 +1,4 @@
-# Hi there, I'm Cymel (Duy)! 👋 💜
+# Haloo, I'm Cymel!
 
 | About Me | Profile Picture | Social Links |
 | :--- | :---: | :--- |

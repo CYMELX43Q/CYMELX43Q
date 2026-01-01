@@ -2,7 +2,7 @@
 
 | About Me | Profile Picture | Social Links |
 | :--- | :---: | :--- |
-| ✨ **Bio:** Friendly & Creative <br> 🌍 **Languages:** English & Vietnamese <br> 🌸 **Interests:** Anime, Coding & Nature | <img src="1000017295.jpg" width="200" alt="Lilac Flowers"> | 📘 [Facebook](https://www.facebook.com/share/1AJPBucMte/) <br> 📧 [Email Me](mailto:accphucymel@gmail.com) |
+| ✨ **Bio:** Friendly & Creative <br> 🌍 **Languages:** English & Vietnamese <br> 🌸 **Interests:** Anime, Coding & Nature | <img src="069b6129-969b-4aa1-a86c-b7aed11be893.jpeg" width="200" alt="Lilac Flowers"> | 📘 [Facebook](https://www.facebook.com/share/1AJPBucMte/) <br> 📧 [Email Me](mailto:accphucymel@gmail.com) |
 
 ---
 

@@ -28,7 +28,9 @@
 <h2 align="center"> Cymel / Duy </h2>
 
 <p align="center">
-  <img src="https://64.media.tumblr.com/f9a8a7c2e3a1f8e6c7d3d1e1c9a6c2f5/tumblr_n7c3x2tQ2P1qzleuoo1_500.gifv" alt="Y2K GIF"/>
+  <img src="https://64.media.tumblr.com/f9a8a7c2e3a1f8e6c7d3d1e1c9a6c2f5/tumblr_n7c3x2tQ2P1qzleuoo1_500.gif" width="150">
+</p>
+
 </p>
 
 <p align="center">

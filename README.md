@@ -3,7 +3,7 @@
   <img src="069b6129-969b-4aa1-a86c-b7aed11be893.jpeg" width="300" alt="Profile Picture 2"/>
 </p>
 
-<h1 align="center">☆.。.:*・°☆ WELCOME TO CYMEL'S SPACE ☆.。.:*・°☆</h1>
+<h1 align="center"> Welcome !</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-CYMEL%20%7C%20DUY-D8BFD8?style=for-the-badge&logo=github&logoColor=white" alt="Name Badge"/>
@@ -25,7 +25,7 @@
   ☆*:・°<br>
 </p>
 
-<h2 align="center">✧･ﾟ: *✧･ﾟ:* CYMEL / DUY *:･ﾟ✧*:･ﾟ✧</h2>
+<h2 align="center"> Cymel / Duy </h2>
 
 <p align="center">
   <img src="https://64.media.tumblr.com/f9a8a7c2e3a1f8e6c7d3d1e1c9a6c2f5/tumblr_n7c3x2tQ2P1qzleuoo1_500.gifv" alt="Y2K GIF"/>

@@ -34,9 +34,11 @@
 <p align="center">
   - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 </p>
-<a href="https://www.facebook.com/share/17t5QBNPTE/" target="_blank">
-  <img src="https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" height="25">
-</a>
-<a href="mailto:accphucymel@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail" height="25">
-</a>
+<p align="center">
+  <a href="https://www.facebook.com/share/17t5QBNPTE/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-B39DDB?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="mailto:accphucymel@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-F48FB1?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>

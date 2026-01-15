@@ -8,7 +8,7 @@
 # 𝖶𝖾𝗅𝖼𝗈𝗆𝖾 𝗍𝗈 𝖢𝗒𝗆𝖾𝗅'𝗌 𝖲𝗉𝖺𝖼𝖾 ✦
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-CYMEL%20%7C%20DUY-D8BFD8?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CYMEL%20%7C%20KYM-D8BFD8?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/-FRIENDLY-FFC0CB?style=for-the-badge&logo=ko-fi&logoColor=white" />
   <br>
   <img src="https://img.shields.io/badge/-ENGLISH%20%26%20VIETNAMESE%20COMMUNICATION-9370DB?style=for-the-badge&logo=google-translate&logoColor=white" />
